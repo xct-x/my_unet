@@ -1,5 +1,5 @@
 # U-Net(Convolutional Networks for Biomedical Image Segmentation)
-
+注：该项目来自b站up主霹雳吧啦Wz，只用于个人学习
 ## 该项目主要参考以下开源仓库
 * [https://github.com/milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)
 * [https://github.com/pytorch/vision](https://github.com/pytorch/vision)
